@@ -13,7 +13,7 @@ return (
                 {/* <p className='text-6xl font-bold'>
                     About me
                 </p> */}
-                <Image src={Mail_us} width={500}/>
+                <Image alt="Test" src={Mail_us} width={500}/>
                 </div>
             </div>
             <div className='flex flex-1 justify-center items-center'>
