@@ -55,7 +55,7 @@ const Home = () => {
           <p className='text-5xl font-bold mt-20'>
             I am
           {' '}
-          <p className='text-[#4fb0c6]'>
+          {/* <p className='text-[#4fb0c6]'>
           <Typewriter
             options={{
               strings: ['Web Developer', 'Organizer' , 'Android Developer' , "Designer" ],
@@ -63,7 +63,7 @@ const Home = () => {
               loop: true,
             }}
             /> 
-            </p>
+            </p> */}
             </p>
             <p className='mt-6 text-[16px] font-normal p-6'>
               Hey !! I'm Nikhil Sharma, a third-year B.Tech student at SRM University in Chennai. My passion for technology has driven me to develop skills in both Android and web development, creating user-friendly applications and websites. I have strong organizational skills, leading and managing various events. My outstanding academic performance reflects my hard work and dedication to learning. I'm eager to continue growing my skills and achieving my goals in the future.
