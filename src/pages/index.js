@@ -38,7 +38,7 @@ const Home = () => {
         <div className='md:flex xl:flex'>
         <div className='conyyainer1 w-1/2 sm:w-full h-screen flex justify-center'>
           <div className='card flex flex-col justify-start items-center  bg-slate-500/20 mt-14 p-6 rounded-xl w-[350px] h-[400px]'>
-          <Image alt="Test" src={Profile_pic} alt='Profile pic' className='rounded-full object-cover w-[200px] h-[200px] hover:scale-105 transition'/>
+          <Image  src={Profile_pic} alt='Profile pic' className='rounded-full object-cover w-[200px] h-[200px] hover:scale-105 transition'/>
           <span className='pt-8 font-semibold text-[20px]'>
             Nikhil Sharma hello
           </span>
