@@ -13,7 +13,7 @@ const Navbar = () => {
     
     const CustomLink =({href,title,className="",icon_link})=>{
         const router = useRouter();
-        console.log(router);
+        // console.log(router); 
         return(
             <>
                 <Link href={href} className={`mr-4 transition-colors duration-300 hover:underline underline-offset-4 hover:text-[#4fb0c6] ${router.asPath=== href ? 'underline' : 'no-underline'}`}>
